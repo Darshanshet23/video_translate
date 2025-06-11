@@ -1,7 +1,6 @@
 streamlit
 moviepy
 whisper
-torch
+googletrans==4.0.0rc1
+gTTS
 pydub
-TTS
-deep-translator
