@@ -1,0 +1,8 @@
+
+streamlit
+moviepy
+whisper
+torch
+pydub
+TTS
+deep-translator
